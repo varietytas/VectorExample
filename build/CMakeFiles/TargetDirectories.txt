@@ -1,5 +1,0 @@
-C:/Users/User/Documents/study/HSE_files/CPP/Vector/build/CMakeFiles/Main.dir
-C:/Users/User/Documents/study/HSE_files/CPP/Vector/build/CMakeFiles/package.dir
-C:/Users/User/Documents/study/HSE_files/CPP/Vector/build/CMakeFiles/package_source.dir
-C:/Users/User/Documents/study/HSE_files/CPP/Vector/build/CMakeFiles/edit_cache.dir
-C:/Users/User/Documents/study/HSE_files/CPP/Vector/build/CMakeFiles/rebuild_cache.dir
