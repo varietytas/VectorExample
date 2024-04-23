@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/User/Documents/study/HSE_files/CPP/Vector/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++17 -o CMakeFiles\\Main.dir\\main.cpp.obj -c C:\\Users\\User\\Documents\\study\\HSE_files\\CPP\\Vector\\main.cpp",
+  "file": "C:\\Users\\User\\Documents\\study\\HSE_files\\CPP\\Vector\\main.cpp",
+  "output": "CMakeFiles\\Main.dir\\main.cpp.obj"
+}
+]
